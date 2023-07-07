@@ -1,5 +1,7 @@
 # My homework assignments for Andrew Ng's ML course.
 
+I have uplaoded files as they are submitted - as is often the case most of the code is a template for the work.
+
 ## Description of course (copied from coursera)
 
 https://www.coursera.org/learn/machine-learning#syllabus
